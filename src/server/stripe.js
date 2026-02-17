@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 require('dotenv').config({
-  path: path.resolve(__dirname, "../../../.env")
+  path: path.resolve(__dirname, "../../.env")
 });
 const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
@@ -61,7 +61,7 @@ const findAndProcessNewCharge = (startTime, ip, geoInfo) => {
       console.log('\n🧾 Flattened Stripe Payment Data:');
       console.dir(output, { depth: null });
 
-      fs.writeFileSync('dashboard-view.json', JSON.stringify(output, null, 2));
+      fs.writeFileSync('src/data/dashboard-view.json', JSON.stringify(output, null, 2));
 
       // Replace with real fraud detection logic later
       const is_fraud = false;

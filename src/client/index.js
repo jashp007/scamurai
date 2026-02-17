@@ -1,7 +1,7 @@
 const express = require('express');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const { findAndProcessNewCharge } = require('./stripe/stripe');
+const { findAndProcessNewCharge } = require('../server/stripe');
 require('dotenv').config();
 const { publishFraud } = require('./gun/gunsea');
 

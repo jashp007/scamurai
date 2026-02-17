@@ -4,7 +4,7 @@ const Gun = require("gun");
 require("gun/sea");
 require("gun/lib/webrtc");
 require("dotenv").config({
-    path: path.resolve(__dirname, "../../../.env")
+    path: path.resolve(__dirname, "../../.env")
 });
 const express = require("express");
 const http = require("http");
@@ -35,7 +35,7 @@ app.use(express.json());
 // Remove the multicast option to fix the error
 const gun = Gun({
   web: server,
-  file: path.resolve(__dirname, "../../../gun-data"),
+  file: path.resolve(__dirname, "../../gun-data"),
   rad: true,
   axe: true, // Enable axe for better peer discovery
   // Don't use multicast as it's causing issues
@@ -150,7 +150,7 @@ function setupFraudListeners() {
      console.log(`✅ VERIFIED fraud alert: ${JSON.stringify(verified)}`);
      
      // Log to audit file
-     const auditLogPath = path.resolve(__dirname, '../audit-log.json');
+     const auditLogPath = path.resolve(__dirname, '../data/fraud_audit_log.json');
      let logs = [];
      
      if (fs.existsSync(auditLogPath)) {
