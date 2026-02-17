@@ -1,0 +1,298 @@
+[
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RApyaFs058Ux2Mv1ygS0JsN",
+    "date": "2025-04-06T09:58:52"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RApyaFs058Ux2Mv1ygS0JsN",
+    "date": "2025-04-06T09:58:52"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 10000.0,
+    "transactionID": "pi_3RApzOFs058Ux2Mv19uY5lGh",
+    "date": "2025-04-06T09:59:42"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 10000.0,
+    "transactionID": "pi_3RApzOFs058Ux2Mv19uY5lGh",
+    "date": "2025-04-06T09:59:42"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAqDDFs058Ux2Mv18RmGpSO",
+    "date": "2025-04-06T10:13:59"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAqDDFs058Ux2Mv18RmGpSO",
+    "date": "2025-04-06T10:13:59"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAqDDFs058Ux2Mv18RmGpSO",
+    "date": "2025-04-06T10:13:59"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 3.33,
+    "transactionID": "pi_3RAqJsFs058Ux2Mv05hwJk8X",
+    "date": "2025-04-06T10:20:52"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 3.33,
+    "transactionID": "pi_3RAqJsFs058Ux2Mv05hwJk8X",
+    "date": "2025-04-06T10:20:52"
+  },
+  {
+    "fraud": true,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 3333.0,
+    "transactionID": "pi_3RAqLcFs058Ux2Mv0VQr7RVG",
+    "date": "2025-04-06T10:22:40"
+  },
+  {
+    "fraud": true,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 3333.0,
+    "transactionID": "pi_3RAqLcFs058Ux2Mv0VQr7RVG",
+    "date": "2025-04-06T10:22:40"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 1.0,
+    "transactionID": "pi_3RAqPxFs058Ux2Mv0J8qhOwi",
+    "date": "2025-04-06T10:27:09"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 1.0,
+    "transactionID": "pi_3RAqPxFs058Ux2Mv0J8qhOwi",
+    "date": "2025-04-06T10:27:09"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAqbcFs058Ux2Mv1mIikY0N",
+    "date": "2025-04-06T10:39:12"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAqbcFs058Ux2Mv1mIikY0N",
+    "date": "2025-04-06T10:39:12"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAuFYFs058Ux2Mv18kQ7OCj",
+    "date": "2025-04-06T14:32:40"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAuFYFs058Ux2Mv18kQ7OCj",
+    "date": "2025-04-06T14:32:40"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAvTfFs058Ux2Mv1qNvL1lb",
+    "date": "2025-04-06T15:51:19"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAvTfFs058Ux2Mv1qNvL1lb",
+    "date": "2025-04-06T15:51:19"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAvTfFs058Ux2Mv1qNvL1lb",
+    "date": "2025-04-06T15:51:19"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAvTfFs058Ux2Mv1qNvL1lb",
+    "date": "2025-04-06T15:51:19"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAvvLFs058Ux2Mv0AyniLd8",
+    "date": "2025-04-06T16:19:55"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAvvLFs058Ux2Mv0AyniLd8",
+    "date": "2025-04-06T16:19:55"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAvvLFs058Ux2Mv0AyniLd8",
+    "date": "2025-04-06T16:19:55"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 499.0,
+    "transactionID": "pi_3RAvvLFs058Ux2Mv0AyniLd8",
+    "date": "2025-04-06T16:19:55"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 10.0,
+    "transactionID": "pi_3RAv6NFs058Ux2Mv1J9LF29v",
+    "date": "2025-04-06T15:27:15"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 10.0,
+    "transactionID": "pi_3RAv6NFs058Ux2Mv1J9LF29v",
+    "date": "2025-04-06T15:27:15"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 10.0,
+    "transactionID": "pi_3RAvMMFs058Ux2Mv06CO3csR",
+    "date": "2025-04-06T15:43:46"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 10.0,
+    "transactionID": "pi_3RAvMMFs058Ux2Mv06CO3csR",
+    "date": "2025-04-06T15:43:46"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAwMWFs058Ux2Mv0jQpj0Mc",
+    "date": "2025-04-06T16:48:00"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAwMWFs058Ux2Mv0jQpj0Mc",
+    "date": "2025-04-06T16:48:00"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAwMWFs058Ux2Mv0jQpj0Mc",
+    "date": "2025-04-06T16:48:00"
+  },
+  {
+    "fraud": false,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 20.0,
+    "transactionID": "pi_3RAwMWFs058Ux2Mv0jQpj0Mc",
+    "date": "2025-04-06T16:48:00"
+  },
+  {
+    "fraud": true,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 3446.0,
+    "transactionID": "pi_3RAwNSFs058Ux2Mv1GNUPa5e",
+    "date": "2025-04-06T16:48:58"
+  },
+  {
+    "fraud": true,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 3446.0,
+    "transactionID": "pi_3RAwNSFs058Ux2Mv1GNUPa5e",
+    "date": "2025-04-06T16:48:58"
+  },
+  {
+    "fraud": true,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 3446.0,
+    "transactionID": "pi_3RAwNSFs058Ux2Mv1GNUPa5e",
+    "date": "2025-04-06T16:48:58"
+  },
+  {
+    "fraud": true,
+    "score": 0.39769309759140015,
+    "threshold": 0.5767017602920532,
+    "amount": 3446.0,
+    "transactionID": "pi_3RAwNSFs058Ux2Mv1GNUPa5e",
+    "date": "2025-04-06T16:48:58"
+  }
+]
