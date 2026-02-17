@@ -1,5 +1,1 @@
-packages:
-  - apps/*
-  - packages/*
-ignoredBuiltDependencies:
-  - esbuild
+config/pnpm-workspace.yaml
